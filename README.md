@@ -1,4 +1,8 @@
 # Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers
+
+Get the data by copy this link
+https://gist.githubusercontent.com/mbonsma/8da0990b71ba9a09f7de395574e54df1/raw/aec88b30af87fad8d45da7e774223f91dad09e88/lh_data.csv
+
 📊 Executive Summary
 Project Title: Analyze Death Age Difference of Right Handers with Left Handers
 
